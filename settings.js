@@ -21,19 +21,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
-global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
+global.owner = ['94740522887']
+global.premium = ['94740522887']
+global.ownernomer = '94740522887'
+global.ownername = 'CYBER CHAMIYA'
+global.botname = 'CHAMI MD BOT'
+global.footer = 'CHAMI MD'
+global.cap = '*Genarated By CHAMI Md*'
+global.ig = 'https://github.com/chamiyabot'
+global.region = 'Sri Lanka, matara'
 global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.myweb = 'https://chat.whatsapp.com/BaCJTqi5OWmKoxg1chEqsf'
+global.packname = 'chamiya Md Sticker Bot'
+global.author = 'CHAMIYA'
 global.autobio = 'true'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
